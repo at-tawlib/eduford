@@ -12,3 +12,6 @@ Tutorials from youtube
 -- set the display of the nav and nav-links
 -- Add red line below link items
 -- hide them and show with transition when clicked
+
+\*\* Add .text-box with it's content
+-- Set border around link (hero-btn) and change colour on hover
