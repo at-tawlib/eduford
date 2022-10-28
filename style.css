@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif; /** search for the font on google fonts */
 }
 
 .header {
@@ -83,6 +83,9 @@ nav img {
     background: #f44336;
     transition: 1s;
 }
+nav .fa {
+    display: none;
+}
 
 @media(max-width: 700px){
     .text-box h1 {
@@ -97,8 +100,19 @@ nav img {
         height: 100vh;
         width: 200px;
         top: 0;
-        right: 0;
+        right: -200px; /** shift the nav-link bar inside */
         text-align: left;
         z-index: 2; /** make it overlap lower views */
+    }
+
+    nav .fa {
+        display: block;
+        color: #fff;
+        margin: 10px;
+        font-size: 22px;
+        cursor: pointer;
+    }
+    .nav-links ul {
+        padding: 30px;
     }
 }
