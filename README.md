@@ -44,5 +44,8 @@ Tutorials from youtube playlist [Easy Tutorials](https://www.youtube.com/watch?v
 **Add Campus Section**
 
 - Add contents and image
-- Add red layer on campus-col and show layer on hover
+- Add red layer on campus-col, hide and show layer on hover
 - Add effects to move text of campus-col to middle if hovered
+- Animate title, hide title visible on hover
+
+**Add Facilities Section**
