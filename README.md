@@ -31,3 +31,12 @@ Tutorials from youtube playlist [Easy Tutorials](https://www.youtube.com/watch?v
 - Add menu icons
 - Hide icon for large screens
 - Add listener for icons to open and close side nav-bar (fa) (script)
+
+**Add Course Section**
+
+- Center and add space
+- Add contents, row and course-col
+- Add css for both row and column
+- Add color layer on course-col
+- Add shadow for onHover
+- Handle for smaller screens
