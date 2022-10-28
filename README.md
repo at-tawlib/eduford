@@ -19,13 +19,15 @@ Tutorials from youtube playlist [Easy Tutorials](https://www.youtube.com/watch?v
 
 **Add .text-box with it's content**
 
-- Set border around link (hero-btn) and change colour on hover
+- set .text-box to center of div
+- design hero-btn to look like a button, add hover effect to it
 
 **Handle for small screens (mobile)**
 
 - Add media query in css and handle divs
+- correct the menu for small screens
 - Add font awesome from bootstrapcdn in head of index
 - Search for font awesome icons and close icon in the nav-links to show on small screens
 - Add menu icons
-- set .fa icons display to none to hide in normal view
+- Hide icon for large screens
 - Add listener for icons to open and close side nav-bar (fa) (script)
