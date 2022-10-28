@@ -49,3 +49,7 @@ Tutorials from youtube playlist [Easy Tutorials](https://www.youtube.com/watch?v
 - Animate title, hide title visible on hover
 
 **Add Facilities Section**
+
+**Add Testimonials Section**
+
+- Add content and image
