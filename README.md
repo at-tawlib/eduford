@@ -40,3 +40,9 @@ Tutorials from youtube playlist [Easy Tutorials](https://www.youtube.com/watch?v
 - Add color layer on course-col
 - Add shadow for onHover
 - Handle for smaller screens
+
+**Add Campus Section**
+
+- Add contents and image
+- Add red layer on campus-col and show layer on hover
+- Add effects to move text of campus-col to middle if hovered
