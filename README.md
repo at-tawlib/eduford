@@ -28,4 +28,4 @@ Tutorials from youtube playlist [Easy Tutorials](https://www.youtube.com/watch?v
 - Search for font awesome icons and close icon in the nav-links to show on small screens
 - Add menu icons
 - set .fa icons display to none to hide in normal view
--
+- Add listener for icons to open and close side nav-bar (fa) (script)
