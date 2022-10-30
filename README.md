@@ -53,3 +53,8 @@ Tutorials from youtube playlist [Easy Tutorials](https://www.youtube.com/watch?v
 **Add Testimonials Section**
 
 - Add content and image
+
+**Add Call To Action(cta) section**
+
+- Add hero-btn to it's link
+- Handle header size in small screeen
