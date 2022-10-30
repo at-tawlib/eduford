@@ -58,3 +58,8 @@ Tutorials from youtube playlist [Easy Tutorials](https://www.youtube.com/watch?v
 
 - Add hero-btn to it's link
 - Handle header size in small screeen
+
+**Add Footer section**
+
+- Add text
+- Add fa icons
