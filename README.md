@@ -63,3 +63,10 @@ Tutorials from youtube playlist [Easy Tutorials](https://www.youtube.com/watch?v
 
 - Add text
 - Add fa icons
+
+**Add About page**
+
+- Copy index page and rename to about.html and edit it
+- Change header to sub-header and add the CSS
+- Add content
+- Add hero-btn to a, add red-btn and add css
