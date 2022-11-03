@@ -78,3 +78,10 @@ Tutorials from youtube playlist [Easy Tutorials](https://www.youtube.com/watch?v
 **Add Blog page**
 
 - Add contents
+
+**Add Contact page**
+
+- Ad location section
+- Go to google -> look for the location -> go to map -> click share -> copy embed map
+- Add contact-us section
+- Add form
