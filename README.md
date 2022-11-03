@@ -85,3 +85,7 @@ Tutorials from youtube playlist [Easy Tutorials](https://www.youtube.com/watch?v
 - Go to google -> look for the location -> go to map -> click share -> copy embed map
 - Add contact-us section
 - Add form
+
+**Handle nav-links**
+
+- Add links to the pages
