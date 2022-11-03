@@ -74,3 +74,7 @@ Tutorials from youtube playlist [Easy Tutorials](https://www.youtube.com/watch?v
 **Add Campus page**
 
 - Add courses content and facilities (copied from index.html)
+
+**Add Blog page**
+
+- Add contents
