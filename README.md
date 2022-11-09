@@ -89,3 +89,8 @@ Tutorials from youtube playlist [Easy Tutorials](https://www.youtube.com/watch?v
 **Handle nav-links**
 
 - Add links to the pages
+
+**Create form-handler.html file**
+
+- Change action of contact-col of contact.html to form-handler
+- Add names to inputs of contact-col of contact.html
